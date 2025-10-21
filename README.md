@@ -77,19 +77,20 @@ EDA-Netflix/
 
 ## 🖼️ Exemple de visualisations
 ### 1. Répartition des types de contenu
-![Movies vs TV Shows](https://github.com/yourusername/EDA-Netflix/blob/main/images/movies_vs_tvshows.png)
+![Movies vs TV Shows](Images/1.png)
 
 ### 2. Top 10 des pays producteurs
-![Top Countries](https://github.com/yourusername/EDA-Netflix/blob/main/images/top_countries.png)
+![Top Countries](Images/2.png)
 
-*(Les images peuvent être ajoutées dans un dossier `/images` du dépôt.)*
+### 3. Distribution of Release Years
+![Distribution](Images/3.png)
 
 ---
 
 ## 🚀 Lancer le projet
 ### 1️⃣ Cloner le dépôt
 ```bash
-git clone https://github.com/yourusername/EDA-Netflix.git
+git clone https://github.com/AchrafElboumashouli/Exploratory-Data-Analysis-EDA-Netflix.git
 cd EDA-Netflix
 ```
 2️⃣ Installer les dépendances
@@ -104,4 +105,4 @@ jupyter notebook notebooks/EDA_Netflix.ipynb
 
 👤 Author
 ---
-achraf EL BOUMASHOULI
+ACHRAF EL BOUMASHOULI 🎭🌍
