@@ -8,7 +8,7 @@ L’objectif est de démontrer les compétences en **analyse de données**, **vi
 ---
 
 ## 📂 Structure du projet
-"""
+```bash
 EDA-Netflix/
 │
 ├── data/
@@ -19,4 +19,4 @@ EDA-Netflix/
 │
 ├── requirements.txt # Librairies nécessaires
 └── README.md # Ce fichier
-"""
+```
