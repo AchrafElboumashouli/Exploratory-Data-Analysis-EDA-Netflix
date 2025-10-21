@@ -9,7 +9,7 @@ L’objectif est de démontrer les compétences en **analyse de données**, **vi
 
 ## 📂 Structure du projet
 ```bash
-EDA-Netflix/
+Exploratory-Data-Analysis-EDA-Netflix/
 │
 ├── data/
 │ └── netflix_titles.csv # Dataset brut
